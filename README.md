@@ -82,7 +82,7 @@ Available themes:
 
 Main landing page of CyberGuard providing navigation to all modules.
 
-![Home](CybderguardS/home.png)
+![Home](CyberguardS/home.png)
 
 ---
 
@@ -96,7 +96,7 @@ Features:
 - Scan output area
 - Export PDF button
 
-![Start Scan](CybderguardS/start_scan.png)
+![Start Scan](CyberguardS/start_scan.png)
 
 ---
 
@@ -109,7 +109,7 @@ Features:
 - Report viewing
 - Email report support
 
-![View Reports](CybderguardS/view_report.png)
+![View Reports](CyberguardS/view_report.png)
 
 ---
 
@@ -122,7 +122,7 @@ Features:
 - Scan history
 - Log management
 
-![Logs](CybderguardS/logs.png)
+![Logs](CyberguardS/logs.png)
 
 ---
 
@@ -135,7 +135,7 @@ Features:
 - Sound settings
 - Scan timeout settings
 
-![Settings](CybderguardS/settings.png)
+![Settings](CyberguardS/settings.png)
 
 ---
 
@@ -147,7 +147,7 @@ Features:
 - Scan summary
 - Dashboard visualization
 
-![Dashboard](CybderguardS/dashboard.png)
+![Dashboard](CyberguardS/dashboard.png)
 
 ---
 
